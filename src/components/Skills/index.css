@@ -1,0 +1,15 @@
+.skill-image {
+  height: 70px;
+  width: 70px;
+}
+.skill-name {
+  color: #ffffff;
+  font-size: 18px;
+  margin-left: 10px;
+}
+.skill-cotainer {
+  display: flex;
+  align-items: center;
+  margin-right: 20px;
+  margin-bottom: 40px;
+}

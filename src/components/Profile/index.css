@@ -1,0 +1,65 @@
+.profile-image {
+  height: 80px;
+  width: 80px;
+  border-radius: 80px;
+  margin-bottom: 10px;
+}
+.profile-heading {
+  color: #b6c5ff;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+.profile-para {
+  color: #7e858e;
+  font-size: 16px;
+}
+.card-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  background-size: cover;
+  border-radius: 10px;
+  padding: 20px;
+}
+.failure-main-container {
+  padding: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.try-again-button {
+  background-color: #4f46e5;
+  color: #ffffff;
+  padding: 8px;
+  border-radius: 8px;
+  border: none;
+}
+.filter-container {
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.filterHeading {
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+.filter-ul-container {
+  list-style-type: none;
+}
+.filter-label-element {
+  margin-left: 10px;
+  font-size: 16px;
+}
+.filter-list-container {
+  margin-bottom: 10px;
+}
+.sub-filtermain-container {
+  margin-bottom: 40px;
+  color: #ffffff;
+}
+.filter-hr-line {
+  width: 100%;
+  background-color: #ffffff;
+  margin-top: 15px;
+}
